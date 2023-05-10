@@ -1,4 +1,4 @@
-#PostgreSQL Sizes-- Tamanho TABELAS
+# PostgreSQL Sizes
 
 TAMANHO DOS BANCOS DE DADOS
 ```
